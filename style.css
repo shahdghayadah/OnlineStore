@@ -1,0 +1,72 @@
+.oper{
+  background-color: #6a6666;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+  margin: 10px 10px;
+  cursor:auto;
+  width: 100px;
+}
+.submit{
+  background-color: #6a6666;
+  border: none;
+  color: white;
+  padding: 32px 32px;
+  text-decoration: none;
+  margin: 10px 10px;
+  cursor: pointer;
+  width: 200px;
+}
+.func{
+  margin: 10px 10px;
+  cursor:alias;
+  width: 100px;
+}
+body{
+  background-color: #ece0ea;
+
+}
+      h1 {
+width:500px;
+margin: 0 auto;
+text-align: center;
+}
+.item2 { 
+font-size: 20px;
+padding: 60px 30px;
+margin: auto;
+width: 30%;
+}
+.bottom {
+  position: absolute;
+  bottom: 0; 
+  width:1500px;
+  text-align: center;
+}
+.grid-container {
+display: grid;
+grid-template-columns: auto auto ;
+gap: 10px;
+padding: 10px;
+width: 50%;
+}
+.grid-row  {
+display: grid;
+grid-template-columns: auto auto ;
+gap: 10px;
+padding: 10px;
+width: 10%;
+}
+.center {
+margin-left: auto;
+
+
+}
+table, th,td {
+border: 1px solid;
+}
+table {
+width: 100%;
+border-collapse: collapse;
+}
